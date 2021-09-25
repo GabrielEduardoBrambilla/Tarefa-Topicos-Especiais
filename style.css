@@ -9,3 +9,8 @@
 .Titulo-musica{
     color: black;
 }
+footer{
+    list-style: none;
+    display: inline-flexbox;
+    align-items: center;
+}
